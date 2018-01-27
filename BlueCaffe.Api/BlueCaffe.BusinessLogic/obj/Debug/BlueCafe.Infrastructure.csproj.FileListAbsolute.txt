@@ -1,0 +1,14 @@
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\obj\Debug\BlueCafe.Infrastructure.csprojResolveAssemblyReference.cache
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\obj\Debug\BlueCafe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\BlueCaffe.BusinessLogic.dll.config
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\BlueCaffe.BusinessLogic.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\BlueCaffe.BusinessLogic.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\BlueCaffe.Model.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\BlueCaffe.Model.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\BlueCaffe.Model.dll.config
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\obj\Debug\BlueCaffe.BusinessLogic.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\obj\Debug\BlueCaffe.BusinessLogic.pdb
