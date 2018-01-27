@@ -1,6 +1,0 @@
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Model\bin\Debug\BlueCaffe.Model.dll
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Model\bin\Debug\BlueCaffe.Model.pdb
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Model\obj\Debug\BlueCaffe.Repository.csprojResolveAssemblyReference.cache
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Model\obj\Debug\BlueCaffe.Repository.csproj.CoreCompileInputs.cache
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Model\obj\Debug\BlueCaffe.Model.dll
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Model\obj\Debug\BlueCaffe.Model.pdb
