@@ -7,7 +7,7 @@
     <ProjectGuid>{4438F898-1729-46FD-916F-848B9019B791}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BlueCaffe.Test</RootNamespace>
+    <RootNamespace>BlueCafe.Test</RootNamespace>
     <AssemblyName>BlueCaffe.Test</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

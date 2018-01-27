@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCafe.Api", "BlueCafe.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCafe.Core", "..\BlueCaffe.Core\BlueCafe.Core.csproj", "{47E0AEF4-9CE7-4AE7-8ED5-9E626336FAE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCaffe.Infrastructure", "..\BlueCaffe.Infrastructure\BlueCaffe.Infrastructure.csproj", "{3456A245-70C4-46EC-9D43-8E15CD67B4F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCafe.Infrastructure", "..\BlueCaffe.Infrastructure\BlueCafe.Infrastructure.csproj", "{3456A245-70C4-46EC-9D43-8E15CD67B4F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCaffe.Test", "..\BlueCaffe.Test\BlueCaffe.Test.csproj", "{4438F898-1729-46FD-916F-848B9019B791}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCafe.Test", "..\BlueCaffe.Test\BlueCafe.Test.csproj", "{4438F898-1729-46FD-916F-848B9019B791}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
