@@ -11,3 +11,14 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\obj\Debug\BlueCafe.Test.csprojResolveAssem
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\obj\Debug\BlueCafe.Test.csproj.CoreCompileInputs.cache
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\obj\Debug\BlueCaffe.Test.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\obj\Debug\BlueCaffe.Test.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\BlueCaffe.Test.dll.config
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\BlueCaffe.Core.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\BlueCaffe.Infrastructure.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\EntityFramework.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\BlueCaffe.Core.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\BlueCaffe.Core.dll.config
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\BlueCaffe.Infrastructure.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\BlueCaffe.Infrastructure.dll.config
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\EntityFramework.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Test\bin\Debug\EntityFramework.SqlServer.xml
