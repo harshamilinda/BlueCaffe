@@ -13,7 +13,7 @@ namespace BlueCaffe.Core
         void ServeOrder(Order order);
 
         IEnumerable<Order> GetAllOrders();
-        IEnumerable<Order> GetOrders(string orderStatus);
+        IEnumerable<Order> GetOrders(OrderStatus orderStatus);
 
         Order GetOrder(int id);
 
