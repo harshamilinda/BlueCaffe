@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace BlueCaffe.Api.Areas.HelpPage
+namespace BlueCafe.Api.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

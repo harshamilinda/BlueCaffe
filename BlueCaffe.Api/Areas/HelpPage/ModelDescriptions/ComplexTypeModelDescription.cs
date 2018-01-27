@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace BlueCaffe.Api.Areas.HelpPage.ModelDescriptions
+namespace BlueCafe.Api.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

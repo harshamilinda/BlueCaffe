@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using BlueCaffe.Api.Areas.HelpPage.ModelDescriptions;
-using BlueCaffe.Api.Areas.HelpPage.Models;
+using BlueCafe.Api.Areas.HelpPage.ModelDescriptions;
+using BlueCafe.Api.Areas.HelpPage.Models;
 
-namespace BlueCaffe.Api.Areas.HelpPage
+namespace BlueCafe.Api.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace BlueCaffe.Api.Areas.HelpPage
+namespace BlueCafe.Api.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace BlueCaffe.Api.Areas.HelpPage.ModelDescriptions
+namespace BlueCafe.Api.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

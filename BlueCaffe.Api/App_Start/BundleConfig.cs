@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace BlueCaffe.Api
+namespace BlueCafe.Api
 {
     public class BundleConfig
     {

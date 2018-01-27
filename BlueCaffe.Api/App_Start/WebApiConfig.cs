@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace BlueCaffe.Api
+namespace BlueCafe.Api
 {
     public static class WebApiConfig
     {

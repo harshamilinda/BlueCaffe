@@ -1,9 +1,9 @@
 ﻿using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using BlueCaffe.Api;
-using BlueCaffe.Api.Controllers;
+using BlueCafe.Api;
+using BlueCafe.Api.Controllers;
 
-namespace BlueCaffe.Api.Tests.Controllers
+namespace BlueCafe.Api.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

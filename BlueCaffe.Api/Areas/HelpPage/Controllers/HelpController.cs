@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using BlueCaffe.Api.Areas.HelpPage.ModelDescriptions;
-using BlueCaffe.Api.Areas.HelpPage.Models;
+using BlueCafe.Api.Areas.HelpPage.ModelDescriptions;
+using BlueCafe.Api.Areas.HelpPage.Models;
 
-namespace BlueCaffe.Api.Areas.HelpPage.Controllers
+namespace BlueCafe.Api.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

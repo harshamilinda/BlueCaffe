@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace BlueCaffe.Api.Areas.HelpPage.ModelDescriptions
+namespace BlueCafe.Api.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

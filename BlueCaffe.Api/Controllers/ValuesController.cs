@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace BlueCaffe.Api.Controllers
+namespace BlueCafe.Api.Controllers
 {
     public class ValuesController : ApiController
     {

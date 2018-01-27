@@ -1,0 +1,6 @@
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\BlueCaffe.BusinessLogic.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\bin\Debug\BlueCaffe.BusinessLogic.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\obj\Debug\BlueCafe.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\obj\Debug\BlueCafe.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\obj\Debug\BlueCaffe.BusinessLogic.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.BusinessLogic\obj\Debug\BlueCaffe.BusinessLogic.pdb

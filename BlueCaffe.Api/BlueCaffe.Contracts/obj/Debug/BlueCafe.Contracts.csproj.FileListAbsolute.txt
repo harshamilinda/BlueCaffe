@@ -1,0 +1,6 @@
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.Contracts\bin\Debug\BlueCaffe.Contracts.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.Contracts\bin\Debug\BlueCaffe.Contracts.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.Contracts\obj\Debug\BlueCafe.Contracts.csprojResolveAssemblyReference.cache
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.Contracts\obj\Debug\BlueCafe.Contracts.csproj.CoreCompileInputs.cache
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.Contracts\obj\Debug\BlueCaffe.Contracts.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\BlueCaffe.Contracts\obj\Debug\BlueCaffe.Contracts.pdb
