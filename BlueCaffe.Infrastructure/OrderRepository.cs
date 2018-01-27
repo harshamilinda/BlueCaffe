@@ -29,16 +29,19 @@ namespace BlueCaffe.Infrastructure
         {
             order.Status = OrderStatus.Preparing;
             context.Orders.Add(order);
+            context.SaveChanges();
         }
 
         public void PrepareOrder(Order order)
         {
             context.Entry(order).Entity.Status = OrderStatus.Serving;
+            context.SaveChanges();
         }
 
         public void ServeOrder(Order order)
         {
             context.Entry(order).Entity.Status = OrderStatus.Completed;
+            context.SaveChanges();
         }
     }
 }

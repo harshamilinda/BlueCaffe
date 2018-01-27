@@ -1,16 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BlueCaffe.Api\\App_Data",
-    "\\BlueCaffe.Api\\Areas",
-    "\\BlueCaffe.Api\\bin",
-    "\\BlueCaffe.Api\\bin\\roslyn",
     "\\BlueCaffe.Core",
     "\\BlueCaffe.Core\\obj",
     "\\BlueCaffe.Core\\obj\\Debug",
     "\\BlueCaffe.Core\\obj\\Release",
     "\\BlueCaffe.Core\\Properties"
   ],
-  "SelectedNode": "\\BlueCaffe.Core\\obj",
+  "SelectedNode": "\\BlueCaffe.Core\\Properties\\AssemblyInfo.cs",
   "PreviewInSolutionExplorer": false
 }
