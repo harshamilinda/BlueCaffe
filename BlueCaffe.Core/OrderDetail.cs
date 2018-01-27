@@ -1,4 +1,4 @@
-﻿namespace BlueCaffe.Core
+﻿namespace BlueCafe.Core
 {
     public class OrderDetail
     {

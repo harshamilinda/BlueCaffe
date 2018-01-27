@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace BlueCaffe.Core
+namespace BlueCafe.Core
 {
     public class Beverage
     {

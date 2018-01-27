@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BlueCaffe.Core
+namespace BlueCafe.Core
 {
     public class Order
     {

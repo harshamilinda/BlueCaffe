@@ -91,3 +91,9 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\obj\Debug\BlueCafe.Api.Tests.csprojRe
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\obj\Debug\BlueCafe.Api.Tests.csproj.CoreCompileInputs.cache
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\obj\Debug\BlueCaffe.Api.Tests.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\obj\Debug\BlueCaffe.Api.Tests.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\bin\Debug\BlueCaffe.Core.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\bin\Debug\BlueCaffe.Infrastructure.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\bin\Debug\BlueCaffe.Core.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\bin\Debug\BlueCaffe.Core.dll.config
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\bin\Debug\BlueCaffe.Infrastructure.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api.Tests\bin\Debug\BlueCaffe.Infrastructure.dll.config
