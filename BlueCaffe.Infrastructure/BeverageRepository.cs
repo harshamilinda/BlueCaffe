@@ -1,12 +1,8 @@
-﻿using BlueCaffe.Core;
+﻿using BlueCafe.Core;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using BlueCafe.Core;
 
-namespace BlueCaffe.Infrastructure
+namespace BlueCafe.Infrastructure
 {
     public class BeverageRepository : IBeverageRepository
     {

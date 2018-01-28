@@ -50,6 +50,7 @@
     <Compile Include="BeverageRepository.cs" />
     <Compile Include="CafeContentInitializer.cs" />
     <Compile Include="CafeContext.cs" />
+    <Compile Include="OrderDetailsRepository.cs" />
     <Compile Include="OrderRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

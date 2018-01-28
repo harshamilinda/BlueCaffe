@@ -7,7 +7,7 @@ using System.Net.Http;
 using System.Web.Http;
 using BlueCafe.Infrastructure;
 
-namespace BlueCaffe.Api.Controllers
+namespace BlueCafe.Api.Controllers
 {
     public class OrderController : ApiController
     {

@@ -1,7 +1,7 @@
-[assembly: WebActivator.PreApplicationStartMethod(typeof(BlueCaffe.Api.App_Start.NinjectWebCommon), "Start")]
-[assembly: WebActivator.ApplicationShutdownMethodAttribute(typeof(BlueCaffe.Api.App_Start.NinjectWebCommon), "Stop")]
+[assembly: WebActivator.PreApplicationStartMethod(typeof(BlueCafe.Api.App_Start.NinjectWebCommon), "Start")]
+[assembly: WebActivator.ApplicationShutdownMethodAttribute(typeof(BlueCafe.Api.App_Start.NinjectWebCommon), "Stop")]
 
-namespace BlueCaffe.Api.App_Start
+namespace BlueCafe.Api.App_Start
 {
     using System;
     using System.Web;
