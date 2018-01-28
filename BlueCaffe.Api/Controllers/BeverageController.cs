@@ -19,5 +19,9 @@ namespace BlueCafe.Api.Controllers
         {
             return Repository.GetAll();
         }
+        public void Post(Beverage beverage)
+        {
+            Repository.Add(beverage);
+        }
     }
 }
