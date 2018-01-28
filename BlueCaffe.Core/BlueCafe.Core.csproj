@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Beverage.cs" />
+    <Compile Include="IBeverageRepository.cs" />
     <Compile Include="IOrderRepository.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderDetail.cs" />

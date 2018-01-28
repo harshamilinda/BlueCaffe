@@ -16,6 +16,6 @@ namespace BlueCafe.Infrastructure
         }
         public DbSet<Beverage> Beverages { get; set; }
         public DbSet<Order> Orders { get; set; }
-        public DbSet<Order> OrderDetails { get; set; }
+        public DbSet<OrderDetail> OrderDetails { get; set; }
     }
 }
