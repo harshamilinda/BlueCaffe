@@ -12,14 +12,14 @@ namespace BlueCafe.Test
     public class OrderRepositoryTest 
     {
         OrderRepository Repo;
-
+        CafeContext context = new CafeContext();
         [TestInitialize]
         public void DBSetup()
         {
             CafeContentInitializer CafeInit = new CafeContentInitializer();
             System.Data.Entity.Database.SetInitializer(CafeInit);
 
-            Repo = new OrderRepository();
+            Repo = new OrderRepository(context);
 
         }
     }

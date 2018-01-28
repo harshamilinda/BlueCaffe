@@ -10,6 +10,12 @@ namespace BlueCafe.Infrastructure
 {
     public class OrderDetailsRepository : IOrderDetailsRepository
     {
+
+        private CafeContext context;
+        public OrderDetailsRepository(CafeContext db)
+        {
+            context = db;
+        }
         public void Add(IEnumerable<OrderDetail> orderDetails)
         {
             throw new NotImplementedException();

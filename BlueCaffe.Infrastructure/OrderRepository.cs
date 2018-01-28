@@ -9,7 +9,12 @@ namespace BlueCafe.Infrastructure
 {
     public class OrderRepository : IOrderRepository
     {
-        CafeContext context = new CafeContext();
+
+        private CafeContext context;
+        public OrderRepository(CafeContext db)
+        {
+            context = db;
+        }
         public IEnumerable<Order> GetAllOrders()
         {
             return context.Orders;

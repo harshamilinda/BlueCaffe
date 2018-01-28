@@ -60,6 +60,9 @@ namespace BlueCafe.Api.App_Start
         private static void RegisterServices(IKernel kernel)
         {
             kernel.Bind<IOrderRepository>().To<OrderRepository>();
+            kernel.Bind<IBeverageRepository>().To<BeverageRepository>();
+            kernel.Bind<IOrderDetailsRepository>().To<OrderDetailsRepository>();
+
             kernel.Bind<CafeContext>().To<CafeContext>();
         }        
     }

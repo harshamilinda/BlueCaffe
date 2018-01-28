@@ -1,0 +1,14 @@
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\BlueCaffe.Infrastructure.dll.config
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\BlueCaffe.Infrastructure.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\BlueCaffe.Infrastructure.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\BlueCaffe.Core.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\EntityFramework.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\BlueCaffe.Core.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\BlueCaffe.Core.dll.config
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\EntityFramework.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\obj\Release\BlueCafe.Infrastructure.csprojResolveAssemblyReference.cache
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\obj\Release\BlueCafe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\obj\Release\BlueCaffe.Infrastructure.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\obj\Release\BlueCaffe.Infrastructure.pdb

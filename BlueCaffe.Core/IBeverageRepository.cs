@@ -14,7 +14,7 @@ namespace BlueCafe.Core
         void Delete(Beverage beverage);
 
         IEnumerable<Beverage> GetAll();
-        IEnumerable<Beverage> Get(int id);
+        Beverage Get(int id);
         
 
     }
