@@ -14,5 +14,9 @@ namespace BlueCafe.Api.Controllers
 
             return View();
         }
+        public ActionResult Cafe()
+        {
+            return View();
+        }
     }
 }

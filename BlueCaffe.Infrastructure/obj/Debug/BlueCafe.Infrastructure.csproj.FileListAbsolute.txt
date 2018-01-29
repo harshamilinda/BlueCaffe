@@ -1,3 +1,4 @@
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\EntityFramework.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\BlueCaffe.Infrastructure.dll.config
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\BlueCaffe.Infrastructure.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\BlueCaffe.Infrastructure.pdb
@@ -6,7 +7,6 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\EntityFramework.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\BlueCaffe.Core.pdb
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\BlueCaffe.Core.dll.config
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\EntityFramework.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\obj\Debug\BlueCafe.Infrastructure.csprojResolveAssemblyReference.cache
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Infrastructure\obj\Debug\BlueCafe.Infrastructure.csproj.CoreCompileInputs.cache

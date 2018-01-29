@@ -1,3 +1,7 @@
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\EntityFramework.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.WebPages.Razor.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\it\Microsoft.Data.OData.resources.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\ja\Microsoft.Data.OData.resources.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\ApplicationInsights.config
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\roslyn\csc.exe
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\roslyn\csc.exe.config
@@ -53,7 +57,6 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\BlueCaffe.Api.pdb
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Antlr3.Runtime.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\BlueCaffe.Core.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\BlueCaffe.Infrastructure.dll
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\EntityFramework.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\EntityFramework.SqlServer.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AI.Agent.Intercept.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AI.DependencyCollector.dll
@@ -113,7 +116,6 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.Optimization.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.Razor.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.WebPages.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.WebPages.Deployment.xml
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.WebPages.Razor.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Antlr3.Runtime.pdb
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.ApplicationInsights.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AI.DependencyCollector.xml
@@ -132,8 +134,6 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dl
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\de\Microsoft.Data.OData.resources.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\es\Microsoft.Data.OData.resources.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\fr\Microsoft.Data.OData.resources.dll
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\it\Microsoft.Data.OData.resources.dll
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\ja\Microsoft.Data.OData.resources.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\ko\Microsoft.Data.OData.resources.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\ru\Microsoft.Data.OData.resources.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
@@ -151,3 +151,16 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\obj\Debug\BlueCafe.Api.csprojResolveAssembl
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\obj\Debug\BlueCafe.Api.csproj.CoreCompileInputs.cache
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\obj\Debug\BlueCaffe.Api.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\obj\Debug\BlueCaffe.Api.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Security.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Owin.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Security.xml

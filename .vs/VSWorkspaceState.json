@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BlueCaffe.Core",
+    "\\BlueCaffe.Api",
+    "\\BlueCaffe.Api\\SignalRHubs",
+    "\\BlueCaffe.Api\\Views",
+    "\\BlueCaffe.Api\\Views\\Home",
+    "\\BlueCaffe.Api\\Views\\Shared",
     "\\BlueCaffe.Core\\obj",
     "\\BlueCaffe.Core\\obj\\Debug",
     "\\BlueCaffe.Core\\obj\\Release",
     "\\BlueCaffe.Core\\Properties"
   ],
-  "SelectedNode": "\\BlueCaffe.Core\\Properties\\AssemblyInfo.cs",
+  "SelectedNode": "\\BlueCaffe.Api\\SignalRHubs\\CafeHub.cs",
   "PreviewInSolutionExplorer": false
 }
