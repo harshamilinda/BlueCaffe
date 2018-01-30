@@ -8,3 +8,4 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\bin\Debug\EntityFramework.SqlServer.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\obj\Debug\BlueCafe.Core.csproj.CoreCompileInputs.cache
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\obj\Debug\BlueCaffe.Core.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\obj\Debug\BlueCaffe.Core.pdb
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\obj\Debug\BlueCafe.Core.csprojResolveAssemblyReference.cache

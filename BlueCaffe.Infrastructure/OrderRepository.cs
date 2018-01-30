@@ -37,15 +37,12 @@ namespace BlueCafe.Infrastructure
             context.SaveChanges();
         }
 
-        public void PrepareOrder(Order order)
+      
+   
+        public void UpdateOrder(int id, Order order)
         {
-            context.Entry(order).Entity.Status = OrderStatus.Serving;
-            context.SaveChanges();
-        }
-
-        public void ServeOrder(Order order)
-        {
-            context.Entry(order).Entity.Status = OrderStatus.Completed;
+            var item = context.Orders.FirstOrDefault(o => o.Id == id);
+            item = order;
             context.SaveChanges();
         }
     }

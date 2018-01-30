@@ -9,8 +9,7 @@ namespace BlueCafe.Core
     public interface IOrderRepository
     {
         void PlaceOrder(Order order);
-        void PrepareOrder(Order order);
-        void ServeOrder(Order order);
+        void UpdateOrder(int id,Order order);
 
         IEnumerable<Order> GetAllOrders();
         IEnumerable<Order> GetOrders(OrderStatus orderStatus);
