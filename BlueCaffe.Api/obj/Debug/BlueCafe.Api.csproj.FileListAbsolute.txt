@@ -1,3 +1,6 @@
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Data.OData.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Data.OData.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.WebPages.Deployment.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\ApplicationInsights.config
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\roslyn\csc.exe
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\roslyn\csc.exe.config
@@ -64,10 +67,11 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AI.WindowsServer.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.ApplicationInsights.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Client.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Owin.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Data.Edm.dll
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Data.OData.dll
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Cors.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Security.dll
@@ -103,11 +107,12 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\EntityFramework.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\EntityFramework.SqlServer.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Client.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.Owin.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Data.Edm.xml
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Data.OData.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Cors.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.Owin.Security.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Ninject.pdb
@@ -128,7 +133,6 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.Mvc.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.Optimization.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.Razor.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.WebPages.xml
-C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.WebPages.Deployment.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\System.Web.WebPages.Razor.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Antlr3.Runtime.pdb
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Api\bin\Microsoft.ApplicationInsights.xml

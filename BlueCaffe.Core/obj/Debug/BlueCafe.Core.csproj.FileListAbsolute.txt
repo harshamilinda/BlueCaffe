@@ -5,6 +5,7 @@ C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\bin\Debug\EntityFramework.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\bin\Debug\EntityFramework.SqlServer.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\bin\Debug\EntityFramework.xml
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\obj\Debug\BlueCafe.Core.csprojResolveAssemblyReference.cache
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\obj\Debug\BlueCafe.Core.csproj.CoreCompileInputs.cache
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\obj\Debug\BlueCaffe.Core.dll
 C:\BlueCaffe\BlueCaffe\BlueCaffe.Core\obj\Debug\BlueCaffe.Core.pdb

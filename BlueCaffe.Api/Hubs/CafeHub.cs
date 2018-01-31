@@ -10,10 +10,18 @@ namespace BlueCafe.Api.Hubs
     [HubName("cafeHub")]
     public class CafeHub : Hub
     {
-        public void Send(string name, string message)
-        {
+        //public void Send(string name, string message)
+        //{
              
-            Clients.All.addNewMessageToPage(name, message);
+        //    Clients.All.addNewMessageToPage(name, message);
+        //}
+        //public void SynchOrders()
+        //{
+        //    Clients.All.synchOrders();
+        //}
+        public void SendToAll()
+        {
+            Clients.All.InvokeAsync("sendToAll");
         }
     }
 }
