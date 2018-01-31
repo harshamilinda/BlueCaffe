@@ -12,22 +12,10 @@ namespace BlueCafe.Api.Controllers
     public class OrderController : ApiController
     {
         private IOrderRepository Repository;
-        public OrderController(IOrderRepository repo)
-        {
-            this.Repository = repo;
-        }
-        // GET api/values
-        public IEnumerable<Order> Get()
-        {
-            return Repository.GetAllOrders();
-        }
-        public void Post(Order order)
-        {
-            Repository.PlaceOrder(order);
-        }
-        public void Put(int id, Order order)
-        {
-            Repository.UpdateOrder(id, order);
-        }
+        public OrderController(IOrderRepository repo) => this.Repository = repo;
+        public IEnumerable<Order> Get() => Repository.GetAllOrders();
+        public void Post(Order order) => Repository.PlaceOrder(order);
+        public void Put(int id, Order order) => Repository.UpdateOrder(id, order);
+        
     }
 }

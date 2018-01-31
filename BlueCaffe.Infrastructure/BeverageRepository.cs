@@ -15,8 +15,15 @@ namespace BlueCafe.Infrastructure
 
         public void Add(Beverage beverage)
         {
-            context.Beverages.Add(beverage);
-            context.SaveChanges();
+            try
+            {
+                context.Beverages.Add(beverage);
+                context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public void Delete(Beverage beverage)
