@@ -16,10 +16,7 @@ namespace BlueCafe.Api.Controllers
         }
 
         // GET api/values/5
-        public string Get(int id)
-        {
-            return "value";
-        }
+        public string Get(int id) => "value";
 
         // POST api/values
         public void Post([FromBody]string value)
